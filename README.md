@@ -14,3 +14,4 @@ Reference
 - https://github.com/allenai/longformer
 - https://github.com/huggingface/transformers/tree/master/src/transformers/models/longformer
 - https://github.com/huggingface/transformers/tree/master/src/transformers/models/led
+- longformer/longformer.py @LongformerSelfAttention
