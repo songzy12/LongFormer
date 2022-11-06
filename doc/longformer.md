@@ -33,4 +33,6 @@ longformer/sliding_chunks.py
 ```
 def sliding_chunks_matmul_qk(q: torch.Tensor, k: torch.Tensor, w: int, padding_value: float):
 
+def sliding_chunks_matmul_pv(prob: torch.Tensor, v: torch.Tensor, w: int):
+
 ```
